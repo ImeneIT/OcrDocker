@@ -1,0 +1,23 @@
+Introduction et objet de la demande :
+
+La Banque BNP Paribas El Djazair cherche & améliorer son processus d'entrée en relation en intégrant une
+couche digitale au process cible pour rendre I'expérience client plus efficace et conviviale.
+
+Actuellement, le processus d'ouverture de compte et de produits bancaires est non digitalisé pour le client, ce
+qui entraine une expérience utilisateur insatisfaisante.
+
+Situation souhaitée :
+
+La Banque BNP Paribas El Djazair aspire a mettre en place une solution digitale compléte pour son processus
+d'entrée en relation :
+
+A partir de l'application MyDigibank, en cliquant sur le bouton « Nouveau client» en mode déconnecté,
+l'utilisateur aura accés aux formulaires d’informations a renseigner pour initier l’entrée en relation,
+
+Additivement, il devra joindre des documents nécessaires pour compléter lel proc
+essus avec lecteur OCR pour les PI
+
+Travaux a prévoir :
+
+Le service devra étre connecté & une API exposé par notre outil d’entré en relation existant, et les informations
+saisies par lend user seront déversées sur les champs approprié coté outil backoffice,
